@@ -1,0 +1,11 @@
+.list-block.media-list a {
+    color: #000;
+}
+
+.list-block .swipeout-actions-left a, .list-block .swipeout-actions-right a {
+    color: #fff;
+}
+
+.list-block {
+    margin: 0px;
+}

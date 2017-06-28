@@ -3,12 +3,12 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>HelloCordova</name>
+    <name>U-OVertrekt</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Een simpele webapp waarmee je snel vetrektijden kan zien.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="rogier.sangers@student.hu.nl" href="http://sngrs.com">
+        Rogier Sangers
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -18,4 +18,5 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <icon density="mdpi" height="57" platform="ios" src="icon.png" width="57" />
 </widget>
